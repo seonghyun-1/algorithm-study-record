@@ -53,7 +53,7 @@ public class 숫자의표현 {
         int loopCount = 1;
         int sum;
         while(true){
-            if(loopCount > n) break;
+            if(loopCount > n) {break;};
             sum = 0;
             for(int i=loopCount;i<=n;i++){
                 sum = sum + i;
