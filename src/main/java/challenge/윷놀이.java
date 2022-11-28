@@ -18,7 +18,6 @@ public class 윷놀이 {
 
         }
     }
-
     public String solution(int[] arr1) {
         // 코드 작성
         int count_one=0;
